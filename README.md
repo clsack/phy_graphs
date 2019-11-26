@@ -1,3 +1,3 @@
 # phy_graphs
 
-https://hub.gke.mybinder.org/user/clsack-phy_graphs-znrt8ot6/notebooks/demo/trigonometry.ipynb
+https://hub.gke.mybinder.org/user/clsack-phy_graphs-mqwl9bxg/tree/demo
